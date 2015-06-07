@@ -1,0 +1,11 @@
+---
+title: "README"
+author: "@hrbrmstr"
+date: June 07, 2015
+output:
+  md_document:
+    variant: markdown_github
+---
+
+avianflu is an RStudio project to go with the blog post
+
